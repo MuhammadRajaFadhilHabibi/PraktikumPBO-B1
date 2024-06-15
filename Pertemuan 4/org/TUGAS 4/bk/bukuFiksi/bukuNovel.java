@@ -1,6 +1,6 @@
 /*
-    Nama        : Mohamad Faisal Rizki
-    NIM         : 24060122130068
+    Nama        : Muhammad Raja Fadhil Habii
+    NIM         : 24060122140131
     Nama File   : bukuNovel.java
     Deskripsi   : File Class dari bukuNovel.java
 */
